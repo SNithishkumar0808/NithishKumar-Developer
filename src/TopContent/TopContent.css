@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+
+.TopContent{
+    color:white;
+}
+.TopContent_Container{
+    position: absolute;
+    top:450px;
+    left: 70px;
+    
+    
+    
+}
+.TopContent_Container>p{
+    letter-spacing: 1px;
+    text-align: left;
+    padding-left:3px ;
+    padding-top: 10px;
+    position: relative;
+    margin-bottom: 10px;
+}
+.TopContent_Container>a>button{
+    margin-bottom: 30px;
+    text-align: left;
+    margin-left: 5px;
+    border: none;
+    border-radius: 5px;
+    top: 10px;
+
+
+}
+.TopContent_Container>h1{
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.Down{
+    color: white;
+    background-color: #f64c08;
+    font-size: 10px;
+    padding: 10px ;
+    font-weight: 200;
+    cursor: pointer;
+}
+.Down:hover{
+
+    color:blue;
+    background-color: white;
+}
+.Work{
+    color: white;
+    border: 1px solid white !important;
+    background:transparent;
+    font-size: 12px;
+    padding: 9px 10px;
+    font-weight: 300;
+    cursor: pointer;
+
+}
+.Work:hover{
+    color: black;
+    background-color: aliceblue;
+    font-weight: 300;
+}

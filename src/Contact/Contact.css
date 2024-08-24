@@ -1,0 +1,42 @@
+.Contact{
+    display: flex;
+    color: white;
+    flex-direction: column;
+    justify-content: center;
+    margin: 200px 0 100px;
+    align-items: center;
+    padding: 100px;
+}
+.Contact_info{
+    border: 1px solid white;
+    width: 500px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    margin-top: 20px;
+    
+}
+.Contact_info>p{
+padding: 15px;
+}
+
+.Contact_info>a{
+    font-size: 20px;
+    text-align: left;
+    padding-bottom: 30px;
+
+}
+span{
+    color:#f64c08 ;
+}
+.icon> a>button>span>.css-78trlr-MuiButtonBase-root-MuiIconButton-root{
+color: aliceblue;
+font-size: 30px;
+}
+.icon>a>button{
+    color: white ;
+}
+

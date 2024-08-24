@@ -1,0 +1,95 @@
+.SkillContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:250px  ;
+    height: 100vh;
+    padding: 20px;
+     
+     width: 1px;
+}
+img{
+    max-width: 400px;
+height: 250px;
+border-radius: 20px;
+margin: 100px;
+top:45px;
+left: 50px;
+padding-right: 30px;
+position: relative;
+}
+.Skill-text{
+    color: white;
+    flex: 0.6;
+    text-align: left;
+    max-width: 500px;
+    margin-bottom: 20px;
+    position: relative;
+    top:80px;
+    left: 50px;
+    white-space: nowrap;
+    }
+.Skill-text>h2{
+    font-size: 30px;
+}
+.SkillSet >h5{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    padding-bottom: 0px;
+    padding-top: 30px;
+}
+.Slider1>.css-eglki6-MuiLinearProgress-root{
+background-color: pink;
+
+}
+.Slider2>.css-eglki6-MuiLinearProgress-root{
+    background-color: pink;
+    
+    }
+    .Slider3>.css-eglki6-MuiLinearProgress-root{
+        background-color: pink;
+        
+        }
+        .Slider4>.css-eglki6-MuiLinearProgress-root{
+            background-color: pink;
+            
+            }
+            .Slider5>.css-eglki6-MuiLinearProgress-root{
+                background-color: pink;
+                
+                }
+                .Slider6>.css-eglki6-MuiLinearProgress-root{
+                    background-color: pink;
+                    
+                    }
+                     
+    .cer{
+        
+        display: flex;
+        position: relative;
+        bottom: 220px;
+        left: 400px;
+        padding: 2px;
+
+    } 
+    .li{
+        justify-content: center;
+        display:inline-block;
+        text-align-last: left ;
+        position: relative;
+        bottom: 220px;
+        left: 400px;
+        font-size: 16px;
+        padding:5px ;
+        inline-size: auto;
+        color: aqua;
+        padding-top: 10px;
+        /* clear: both;
+        display: inline-block;
+        overflow: hidden; */
+        white-space: nowrap;
+    
+    }             
+
+    
+

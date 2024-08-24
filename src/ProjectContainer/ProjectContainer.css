@@ -1,0 +1,10 @@
+.ProjectContainer {
+    text-align: center;
+    padding: 100px;
+    background-color: #f5f5f5;
+}
+
+.Project_dis {
+    display: flex;
+   
+}
