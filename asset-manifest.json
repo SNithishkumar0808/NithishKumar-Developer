@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/NithishKumar-Developer/static/css/main.89b458b2.css",
-    "main.js": "/NithishKumar-Developer/static/js/main.bad865cb.js",
+    "main.css": "/NithishKumar-Developer/static/css/main.c35ec88e.css",
+    "main.js": "/NithishKumar-Developer/static/js/main.e93b6f6c.js",
     "static/js/453.a8ae860d.chunk.js": "/NithishKumar-Developer/static/js/453.a8ae860d.chunk.js",
     "static/media/air1.jpg": "/NithishKumar-Developer/static/media/air1.274241180b21dac592d4.jpg",
     "static/media/skill4.jpg": "/NithishKumar-Developer/static/media/skill4.e3373edbd588c3b77f6a.jpg",
@@ -9,12 +9,12 @@
     "static/media/can.jpg": "/NithishKumar-Developer/static/media/can.29240d42acb3f845f76a.jpg",
     "static/media/med.jpg": "/NithishKumar-Developer/static/media/med.6bba0a8ec650b1553c8b.jpg",
     "index.html": "/NithishKumar-Developer/index.html",
-    "main.89b458b2.css.map": "/NithishKumar-Developer/static/css/main.89b458b2.css.map",
-    "main.bad865cb.js.map": "/NithishKumar-Developer/static/js/main.bad865cb.js.map",
+    "main.c35ec88e.css.map": "/NithishKumar-Developer/static/css/main.c35ec88e.css.map",
+    "main.e93b6f6c.js.map": "/NithishKumar-Developer/static/js/main.e93b6f6c.js.map",
     "453.a8ae860d.chunk.js.map": "/NithishKumar-Developer/static/js/453.a8ae860d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.89b458b2.css",
-    "static/js/main.bad865cb.js"
+    "static/css/main.c35ec88e.css",
+    "static/js/main.e93b6f6c.js"
   ]
 }
